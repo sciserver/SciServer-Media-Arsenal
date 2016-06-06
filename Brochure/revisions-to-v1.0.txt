@@ -1,0 +1,11 @@
+From Ani:
+
+Goals
+Our core goals are to revolutionize the availability and accessibility of large-scale data-intensive science to the scientific community. In order to achieve these goals, we aim to leverage our long history with SDSS to consolidate, re-engineer and extend the SkyServer building blocks so as to provide the same unique capabilities across  the scientific spectrum.
+
+If it must be in bullet form, it could be:
+
+                                                  Goals
+to revolutionize the availability and accessibility of large-scale data-intensive science to the scientific community
+to leverage our long history with SDSS to consolidate, re-engineer and extend the SkyServer building blocks
+to provide the same unique capabilities across  the scientific spectrum

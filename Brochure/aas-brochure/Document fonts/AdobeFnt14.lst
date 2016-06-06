@@ -1,0 +1,46 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\SciServer\Brochure\aas-brochure\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329326120
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quark-Bold
+FamilyName:Quark
+StyleName:Bold
+FullName:Quark Bold
+MenuName:Quark
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\Artwork\SciServer\Brochure\aas-brochure\Document fonts\Quark-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97072
+FileModTime:1392228253
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
