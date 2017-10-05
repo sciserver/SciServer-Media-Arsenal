@@ -11,7 +11,7 @@ FullName:Cabin Regular
 MenuName:Cabin
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:H:\GitHub\SciServer-Media-Arsenal\diagrams\sciserver-components-figure\sciserver-components-figure\Document fonts\Cabin-Regular.otf
+OutlineFileName:H:\GitHub\SciServer-Media-Arsenal\diagrams\sciserver-components-figure\Document fonts\Cabin-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -32,7 +32,7 @@ FullName:Quark-Bold
 MenuName:QuarkBold
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:H:\GitHub\SciServer-Media-Arsenal\diagrams\sciserver-components-figure\sciserver-components-figure\Document fonts\quark-bold.ttf
+OutlineFileName:H:\GitHub\SciServer-Media-Arsenal\diagrams\sciserver-components-figure\Document fonts\quark-bold.ttf
 DataFormat:sfntData
 FileLength:76744
 FileModTime:1438340274
