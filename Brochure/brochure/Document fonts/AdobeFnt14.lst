@@ -11,7 +11,7 @@ FullName:Quark Bold
 MenuName:Quark
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure-v1.4\Document fonts\Quark-Bold.otf
+OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure\Document fonts\Quark-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -32,7 +32,7 @@ FullName:Quark-Light
 MenuName:QuarkLight
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure-v1.4\Document fonts\quark-light.ttf
+OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure\Document fonts\quark-light.ttf
 DataFormat:sfntData
 FileLength:78148
 FileModTime:1513789393
