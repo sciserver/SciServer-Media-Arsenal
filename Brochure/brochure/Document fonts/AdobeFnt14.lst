@@ -11,12 +11,12 @@ FullName:Quark Bold
 MenuName:Quark
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure\Document fonts\Quark-Bold.otf
+OutlineFileName:H:\Artwork\SciServer\Brochure\brochure\Document fonts\Quark-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:97072
-FileModTime:1513789393
+FileModTime:1514476859
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -32,10 +32,10 @@ FullName:Quark-Light
 MenuName:QuarkLight
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\bonbo\Documents\Git Repositories\Media Arsenal\Brochure\brochure\Document fonts\quark-light.ttf
+OutlineFileName:H:\Artwork\SciServer\Brochure\brochure\Document fonts\quark-light.ttf
 DataFormat:sfntData
 FileLength:78148
-FileModTime:1513789393
+FileModTime:1514476859
 WeightClass:300
 WidthClass:5
 AngleClass:0
