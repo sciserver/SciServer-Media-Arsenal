@@ -1,3 +1,5 @@
 We at SciServer request that the following be added to the acknowledgement section of any paper or presentation using SciServer Resources, Tools, or Components.
 
-SciServer is a collaborative research environment for large-scale data-driven science. It is being developed at, and administered by, the Institute for Data Intensive Engineering and Science at Johns Hopkins University. SciServer is funded by the National Science Foundation Award ACI-1261715. For more information about SciServer, please visit http://www.sciserver.org.
+SciServer is a collaborative research environment for large-scale data-driven science. It is being developed at, and administered by, the Institute for Data Intensive Engineering and Science at Johns Hopkins University. SciServer is funded by the National Science Foundation through the Data Infrastructure Building Blocks (DIBBs) program and others, as well as by the Alfred P. Sloan Foundation and the Gordon and Betty Moore Foundation.
+
+For more information about SciServer, please visit http://www.sciserver.org.
